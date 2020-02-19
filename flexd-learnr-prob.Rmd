@@ -1,0 +1,30 @@
+---
+title: "Reprex"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: scroll
+    theme: flatly
+runtime: shiny_prerendered
+---
+
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(learnr)
+library(tidyverse)
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+Addition
+===========================
+
+
+### Practice Problems
+
+In the box below, you may run any line of **R** code.  Try to add 2 + 2
+
+```{r ex_1-1, exercise = TRUE}
+2+2
+```

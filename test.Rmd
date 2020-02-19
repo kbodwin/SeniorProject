@@ -1,0 +1,23 @@
+---
+title: "Untitled"
+output: html_document
+runtime: shiny_prerendered
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(learnr)
+```
+
+## Quarterly Results {.tabset}
+
+### By Product
+
+(tab content)
+```{r ex1, exercise = TRUE}
+
+```
+
+### By Region
+
+(tab content)

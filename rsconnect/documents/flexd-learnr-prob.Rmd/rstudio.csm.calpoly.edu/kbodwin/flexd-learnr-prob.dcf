@@ -1,0 +1,13 @@
+name: flexd-learnr-prob
+title: flexd-learnr-prob
+username: kbodwin
+account: kbodwin
+server: rstudio.csm.calpoly.edu
+hostUrl: https://rstudio.csm.calpoly.edu/__api__
+appId: 86
+bundleId: 175
+url: https://rstudio.csm.calpoly.edu/content/86/
+when: 1582140962.92267
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Binomial.html|Binomial.Rmd|flexd-learnr-prob.html|README.md|test.html|test.Rmd
