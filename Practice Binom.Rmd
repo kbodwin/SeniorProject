@@ -1,8 +1,6 @@
 ---
 title: "Practice Binom"
-output: 
-  html_document:
-    theme: cerulean
+output: html_document
 runtime: shiny_prerendered
 ---
 
@@ -107,6 +105,7 @@ output$distn_1 <- renderPlot(
 In the box below, you may run any line of **R** code.  Use the box, and/or the exercise above, to answer the following questions.
 
 ```{r dbinom, exercise = TRUE, exercise.lines = 5}
+
 ```
 
 ```{r q_1}
